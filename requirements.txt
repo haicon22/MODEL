@@ -1,0 +1,16 @@
+# Kết nối và API
+flask
+gunicorn
+requests
+mysql-connector-python
+redis
+
+# Xử lý dữ liệu và AI
+numpy
+pandas
+tensorflow-cpu
+scikit-learn
+
+# Tiện ích
+pytz
+colorama
